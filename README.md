@@ -1,2 +1,2 @@
 # StockPerformanceProject
-Stock performance analysys for python course
+Stock performance analysis for python course
